@@ -1,0 +1,16 @@
+ Óbitos fetais - São Paulo
+Óbitos p/Residênc por Óbito relação parto e Duração gestação
+Período:2016
+"Óbito relação parto";"Menos de 22 semanas";"22 a 27 semanas";"28 a 31 semanas";"32 a 36 semanas";"37 a 41 semanas";"42 semanas e mais";"Ignorado";"Total"
+"Antes do parto";305;1190;879;1217;900;11;291;4793
+"Durante o parto";16;59;18;28;39;2;8;170
+"Ignorado";30;74;44;45;35;-;267;495
+"Total";351;1323;941;1290;974;13;566;5458
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ 
